@@ -10,8 +10,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **User can add an item to their wishlist**
-- [ ] **User can see their list of items based on previously inputted items**
+- [x] **User can add an item to their wishlist**
+- [x] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= https://github.com/SydnieSewell/Wishlist/blob/master/WalkThroughUpdated1.gif />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
