@@ -41,6 +41,7 @@ tools:context=".MainActivity">
     android:lines="5"
     android:maxLines="1"
     app:layout_constraintBottom_toTopOf="@+id/itemUrLIV"
+
     app:layout_constraintStart_toStartOf="parent">
     >
 </EditText>

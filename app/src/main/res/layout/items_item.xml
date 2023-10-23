@@ -13,7 +13,7 @@
         android:layout_marginStart="15dp"
         android:layout_marginTop="11dp"
         android:text="Item"
-        android:textSize="20sp"
+        android:textSize="26sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -27,6 +27,7 @@
         android:ellipsize="end"
         android:lines="1"
         android:text="Price"
+        android:textSize="26sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -38,6 +39,7 @@
         android:layout_marginTop="15dp"
         android:layout_marginEnd="20dp"
         android:text="Url"
+        android:textSize="26sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/itemPriceTv" />
 
